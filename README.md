@@ -1,2 +1,2 @@
 # SampleWork2
-Continuous Genetic algorithm
+Continuous Genetic algorithm with Scales functions.
